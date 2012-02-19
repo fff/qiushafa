@@ -6,5 +6,9 @@
   , "dependencies": {
       "express": "2.5.1"
     , "jade": ">= 0.0.1"
+		, "oauth": "0.9.5"
+    , "oauth-douban": "latest"
+		, "mongodb": "latest"
+		, "connect-mongodb": "latest"
   }
 }
